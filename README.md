@@ -438,7 +438,7 @@ note the commit SHA1 or version tag that your parser supports in your Readme.
 - PHP (@yosymfony) - https://github.com/yosymfony/toml
 - Python (@socketubs) - https://github.com/socketubs/pytoml
 - Python (@f03lipe) - https://github.com/f03lipe/toml-python
-- Python (@uiri) - https://github.com/uiri/toml
+- Python (@uiri) - https://github.com/uiri/toml (v0.2.0 support)
 - Python - https://github.com/bryant/pytoml
 - Python (@elssar) - https://github.com/elssar/tomlgun
 - Python (@marksteve) - https://github.com/marksteve/toml-ply
